@@ -1,0 +1,18 @@
+#stupid_button:hover {
+
+    background-color:blue;
+    color:cornsilk;
+    transition: 3s;
+}
+
+canvas{
+    animation-name:naame2;
+    animation-duration:5s;
+    animation-iteration-count:infinite ;
+}
+
+@keyframes naame2{
+    from{box-shadow: crimson 1px 1px 2px 38px;}
+    to{box-shadow: rgba(80, 114, 209, 0.342) 1px 1px 2px 38px;}
+    
+}
